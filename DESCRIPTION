@@ -1,0 +1,12 @@
+Package: TreeBH
+Type: Package
+Title: Error Control for Tree-Structured Hypotheses
+Version: 1.0
+Date: 2018-03-02
+Author: Christine B. Peterson
+Maintainer: Christine B. Peterson <cbpeterson@gmail.com>
+Description: This package implements a multiple testing procedure which addresses the challenge of controlling error rates at multiple levels of resolution. We frame this problem as the selection of hypotheses which are organized in a tree structure. The procedure controls relevant error rates (in particular, the selective FDR in each level of the tree) given certain assumptions on the dependence among the hypotheses.
+Depends: qvalue (>= 2.0.0)
+License: LGPL
+NeedsCompilation: no
+Packaged: 2022-04-28 18:50:00 UTC; cbpeterson

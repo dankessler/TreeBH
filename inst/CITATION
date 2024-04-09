@@ -1,0 +1,21 @@
+citHeader("To cite TreeBH in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Hypotheses on a tree: new error rates and testing strategies",
+  author       = personList(as.person("Marina Bogomolov"),
+                   as.person("Christine B. Peterson"),
+                   as.person("Yoav Benjamini"),
+                   as.person("Chiara Sabatti")),
+  journal      = "Biometrika",
+  year         = "2021",
+  volume       = "108",
+  number       = "3",
+  pages        = "575-590",
+  url          = "https://doi.org/10.1093/biomet/asaa086",
+
+  textVersion  =
+  paste("Marina Bogomolov*, Christine B. Peterson*, Yoav Benjamini, and Chiara Sabatti (2021).",
+        "Hypotheses on a tree: new error rates and testing strategies.",
+        "Biometrika. 108(3): 575-590.",
+        "*Authors contributed equally.")
+)
