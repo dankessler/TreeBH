@@ -10,3 +10,4 @@ Depends: qvalue (>= 2.0.0)
 License: LGPL
 NeedsCompilation: no
 Packaged: 2022-04-28 18:50:00 UTC; cbpeterson
+biocViews:
